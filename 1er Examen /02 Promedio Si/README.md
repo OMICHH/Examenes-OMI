@@ -16,10 +16,8 @@ Deberás mostrar el promedio si y solo si tuvieron todas sus calificaciones apro
 |---------   |---------|
 | 5 3        |  NA     |
 | 1 2 3 4 5  |         |
-|---------   |---------|
 |6 5         | 7.83333 |
 |6 7 8 7 9 10|         |
-|---------   |---------|
 | 10 45      | 76.4    |
 |60 50 70 88 75 97 100 68 72 84 | |
 
