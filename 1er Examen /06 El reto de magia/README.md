@@ -25,8 +25,8 @@ A continuación se muestran un ejemplo.
 | input | output | description |
 |-------|--------|-------------|
 | 6 3 2 | 5      | Se lee la entrada y las cartas quedan ordenadas de la siguiente manera: `1 2 3 4 5 6` |
-| | | Se parten las cartas exactamente por la mitad `1 2 3 | 4 5 6` |
-| | | Se barajan una vez y se parten por la mitad de nuevo. `4 1 5 | 2 6 3` |
+| | | Se parten las cartas exactamente por la mitad `1 2 3 - 4 5 6` |
+| | | Se barajan una vez y se parten por la mitad de nuevo. `4 1 5 - 2 6 3` |
 | | | Se barajan de nuevo, terminan acomodados los números de la siguiente forma. Y la carta tres terminó en la posición 5. `2 4 6 1 3 5` |
 
 # Límites
