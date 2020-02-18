@@ -1,3 +1,7 @@
+# URL
+
+https://omegaup.com/arena/problem/La-casa-de-los-acertijos/#problems
+
 # Descripción
 
 Hola pequeño amiguito, bienvenido a la casa de los acertijos. Este lugar es solo para los mas inteligentes, en la casa de los acertijos existen criaturas muy diferentes a los de tu mundo. Algunas son **MUY PELIGROSAS PARA TI** ten cuidado porque para poder salir tendrás que decidir qué camino tomar. Deberás escoger si girar a la derecha o girar a la izquierda dependiendo de la criatura que te encuentres enfrente.

@@ -1,3 +1,7 @@
+# URL
+
+https://omegaup.com/arena/problem/Perfectos-OMICHH/#problems
+
 # Descripción
 
 En el mundo de las matemáticas existen los números perfectos, los números perfectos son aquellos números enteros de los cuales la suma de todos sus divisores enteros (excepto el mismo) suman el valor de dicho numero. Por ejemplo el 6 es un numero perfecto, sus divisores menores que 6 serian 1, 2 y 3. La suma de dichos números `1+2+3 = 6`.

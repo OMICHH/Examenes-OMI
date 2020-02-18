@@ -1,3 +1,7 @@
+# URL
+
+https://omegaup.com/arena/problem/Promedio-SI-OMICHH/#problems
+
 # Descripción
 
 En los laboratorios de KareLab evalúan a todos sus empleados para saber su desempeño en el trabajo, pero son bastante exigentes, puesto que solo promedian sus calificaciones siempre y cuando obtengan la calificación mínima dependiendo del área donde trabajan. Como estos evaluadores tienen mucho trabajo te pidieron ayuda para hacer los cálculos de los promedios de los empleados, pero recuerda solo deberás promediar si todas las calificaciones obtenidas son aprobatorias.
