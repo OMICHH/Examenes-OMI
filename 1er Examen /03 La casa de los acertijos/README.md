@@ -18,12 +18,7 @@ Deberás indicar el camino a tomar para escapar de la casa de los acertijos, **I
 
 # Ejemplo
 
-||input
-E S E A
-||output
-IZQ
-||input
-E G P G
-||output
-DER
-||end
+| input   |  output |
+|---------|---------|
+|E S E A  | IZQ     |
+|E G P G  | DER     |
